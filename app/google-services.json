@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1003800897003",
+    "firebase_url": "https://velocam-2abca.firebaseio.com",
+    "project_id": "velocam-2abca",
+    "storage_bucket": "velocam-2abca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003800897003:android:44dbcf22339bdbd81da5ae",
+        "android_client_info": {
+          "package_name": "com.example.velocam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003800897003-t1sg7ntj0p388l20d8pk07dts68c82rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.velocam",
+            "certificate_hash": "291aebe18d109a6dde0e47f12476ffc6dc17eefc"
+          }
+        },
+        {
+          "client_id": "1003800897003-qbfp159oamp65ms5b57vli23f89sn8h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6YspF9Q5kDdsBl1aORnMLYMNbEW71lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003800897003-qbfp159oamp65ms5b57vli23f89sn8h4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

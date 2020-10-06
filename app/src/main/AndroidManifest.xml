@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.velocam">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:name=".CustomApplication"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+         >
+        <activity android:name=".UserProfileActivity"></activity>
+        <activity android:name=".Login_Activity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".MainActivity2">
+
+        </activity>
+        <activity android:name=".EmployeeList" />
+        <activity android:name=".AddEmployee" />
+        <activity android:name=".UpdateBranchMap" />
+        <activity android:name=".Forgot" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".BranchMap"
+            android:label="@string/title_activity_branch_map" />
+        <activity android:name=".AddCompany" />
+        <activity android:name=".DashboardActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity
+            android:name=".WelComeActivity"
+            android:label="@string/title_activity_welcom"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".EmployeeLogin" />
+        <activity android:name=".DetailsActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".Verify" />
+        <activity
+            android:name=".IntroActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".LoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/loginscreen" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

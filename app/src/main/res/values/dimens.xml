@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="actionBarSize">56dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">200dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="viewpager_margin_overlap">-60dp</dimen>
+    <dimen name="viewpager_margin_overlap_payment">-30dp</dimen>
+
+    <dimen name="nav_drawer_width">300dp</dimen>
+
+    <dimen name="get_now_card_height">300dp</dimen>
+
+    <dimen name="nav_drawer_left_margin">24dp</dimen>
+    <dimen name="nav_drawer_right_margin">84dp</dimen>
+    <dimen name="nearby_grid_margin">12dp</dimen>
+
+    <dimen name="header_height">16dp</dimen>
+
+    <dimen name="app_detail_head_heiht">116.0dip</dimen>
+    <dimen name="app_details_icon_size">98.0dip</dimen>
+    <dimen name="app_detail_head_title_magin_top">8.0dip</dimen>
+    <dimen name="app_details_head_icon_margin">10.0dip</dimen>
+    <dimen name="app_details_head_icon_marginLeft">12.0dip</dimen>
+
+    <dimen name="fab_elevation">8dp</dimen>
+
+    <dimen name="fab_elevation_press">12dp</dimen>
+    <dimen name="fab_size">56dp</dimen>
+
+    <dimen name="statusbar_size">24dp</dimen>
+    <dimen name="list_row_padding">14.0dip</dimen>
+
+
+    <dimen name="font_10">8.0sp</dimen>
+    <dimen name="font_11">9.0sp</dimen>
+    <dimen name="font_13">11.0sp</dimen>
+    <dimen name="font_14">12.0sp</dimen>
+    <dimen name="font_15">13.0sp</dimen>
+    <dimen name="font_16">14.0sp</dimen>
+    <dimen name="font_17">15.0sp</dimen>
+    <dimen name="font_18">16.0sp</dimen>
+    <dimen name="font_19">17.0sp</dimen>
+    <dimen name="font_20">18.0sp</dimen>
+    <dimen name="font_21">19.0sp</dimen>
+    <dimen name="font_22">20.0sp</dimen>
+    <dimen name="font_23">21.0sp</dimen>
+    <dimen name="font_24">22.0sp</dimen>
+    <dimen name="font_6">4.0sp</dimen>
+    <dimen name="font_7">5.0sp</dimen>
+    <dimen name="font_8">6.0sp</dimen>
+    <dimen name="font_9">7.0sp</dimen>
+    <dimen name="font_12">10.0sp</dimen>
+    <dimen name="keyboard_height">300dip</dimen>
+    <dimen name="item_settings_bottommargin">8dp</dimen>
+
+
+
+
+    <!--genaral spacing-->
+    <dimen name="spacing_xsmall">2dp</dimen>
+    <dimen name="spacing_small">3dp</dimen>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_xmedium">7dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_smlarge">18dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_mxlarge">25dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xmlarge">40dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="spacing_xxxlarge">55dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="_2sdp">2sp</dimen>
+    <dimen name="_10sdp">10sp</dimen>
+    <dimen name="_16sdp">16sp</dimen>
+    <dimen name="_24sdp">24sp</dimen>
+    <dimen name="_3sdp">3sp</dimen>
+    <dimen name="_12sdp">12sp</dimen>
+    <dimen name="_4sdp">4sp</dimen>
+</resources>

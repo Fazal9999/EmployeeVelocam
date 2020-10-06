@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Velocam</string>
+    <string name="email_phone">Email/Phone</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_new">Register new Account</string>
+    <string name="signin_forgotmypassword">Forgot Password</string>
+    <string name="login_now">Login Now</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="your_address">Your Address</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_fname"> First Name</string>
+    <string name="hint_lname"> Last Name</string>
+
+    <string name="hint_designation"> Designation</string>
+    <string name="hint_company_code"> Company_Code</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_upload_image">Upload Image</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Name</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="view_user">View All Admins</string>
+    <string name="change_password">Change Password</string>
+    <string name="logout">Logout</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="update_profile">Update</string>
+    <string name="hint_old_password">Old Password</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="title_activity_welcom">WelcomActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="hint_address">Address</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="SAVE">Save</string>
+    <string name="branch_name">Branch Name</string>
+    <string name="branch_radius">Branch Radius</string>
+    <string name="branch_address">Branch Address</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="branch_lat">Latitude</string>
+    <string name="title_activity_branch_map">Map</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="service_not_available">Service Not Available</string>
+    <string name="invalid_lat_long_used">Invalid Latitude and Longitude</string>
+    <string name="no_location_data_provided">No Location Data Provided</string>
+    <string name="set_branch_location">Set Branch Location</string>
+    <string name="set_your_location">Set your Location</string>
+    <string name="warning">"Admin Already registered! You cannot create new One. "</string>
+    <string name="continuoue_to_this_address">Continuoue to this address</string>
+    <string name="admin">Admin</string>
+    <string name="will_be_delievered_to">Will Be Delievered To</string>
+    <string name="blah_blah_blah">Blah Blah Blah</string>
+    <string name="textview">TextView</string>
+    <string name="update_branch">Update Branch</string>
+    <string name="view_employee">View Employee</string>
+    <string name="add_employees">Add Employees</string>
+
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="authenticate_fingerprint">Error authenticating fingerprint</string>
+    <string name="auth_successful">Fingerprint authentication successful</string>
+    <string name="Unknown_permission_request">Unrecognized permission request</string>
+    <string name="permission_refused">" User refused Fingerprint permission"</string>
+    <string name="phone_number_hint">Phone number</string>
+    <string name="address_hint">Address</string>
+    <string name="password_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="username_hint">Username</string>
+    <string name="with_fingerprint">With Fingerprint</string>
+    <string name="with_fingerprint_and_password">With Fingerprint and Password</string>
+    <string name="login_with_fingerprint">LOGIN WITH FINGERPRINT</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="status">
+        <item>Single</item>
+        <item>Married</item>
+
+    </string-array>
+</resources>
